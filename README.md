@@ -12,7 +12,7 @@ I am just trying to be an engineer, with the talent to deal with data. I have a 
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/sametsoekel/sametsoekel/blob/master/22.png?raw=true">
+  <img width="100" align='left' src="https://github.com/sametsoekel/sametsoekel/blob/master/22.png?raw=true">
 </p>
  
 ### Diary For 21 Days
