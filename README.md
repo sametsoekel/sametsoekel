@@ -1,18 +1,22 @@
 # [![sametsoekel header](https://github.com/sametsoekel/sametsoekel/blob/master/bayrak.png?raw=true)](http://github.com/sametsoekel)
-<!--
-**sametsoekel/sametsoekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align='center'>
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="50" src="https://github.com/sametsoekel/sametsoekel/blob/master/mail.png?raw=true"></a>
+<a href="mailto:a_s@eskisehir.edu.tr"><img height="47" src="https://github.com/sametsoekel/sametsoekel/blob/master/mail.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/sametsoekel/"><img height="50" src="https://github.com/sametsoekel/sametsoekel/blob/master/linkedin.png?raw=true"></a>
 </p>
+
+Hey there 👋
+
+I am just trying to be an engineer, with the talent to deal with data. I have a passion for learning and sharing my knowledge with others a public as possible, am sharing all what I do in this account.  If you found value in something I have created, please feel free to say *"Thank You!"*, give me a shout out [my mailbox](mailto:a_s@eskisehir.edu.tr).
+
+  ---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/sametsoekel/sametsoekel/blob/master/21.png?raw=true">
+</p>
+ 
+### Diary For 21 Days
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
