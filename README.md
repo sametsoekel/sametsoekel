@@ -12,11 +12,11 @@ I am just trying to be an engineer, with the talent to deal with data. I have a 
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/sametsoekel/sametsoekel/blob/master/21.png?raw=true">
+  <img width="250" align='left' src="https://github.com/sametsoekel/sametsoekel/blob/master/22.png?raw=true">
 </p>
  
 ### Diary For 21 Days
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+When I find some time, I share my little works (about a solar car project) on [my blog](diaryfor21days.blogspot.com). I would be honored if you check it out !
 
  ---
