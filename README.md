@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I am just trying to be an engineer, with the talent to deal with data. I have a passion for learning and sharing my knowledge with others a public as possible, am sharing all what I do in this account.  If you found value in something I have created, please feel free to say *"Thank You!"*,. Give a shout out to [my mailbox](mailto:a_s@eskisehir.edu.tr) if you wanna get in touch.
+I am just trying to be an engineer, with the talent to deal with data. I have a passion for learning and sharing my knowledge with others a public as possible, am sharing all what I do in this account.  If you found value in something I have created, please feel free to say *"Thank You!"*. Give a shout out to [my mailbox](mailto:a_s@eskisehir.edu.tr) if you wanna get in touch.
 
   ---
  
